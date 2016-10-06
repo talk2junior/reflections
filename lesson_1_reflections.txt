@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    -Windows command seems to display the information a bit easier to follow for shorter code. Only displays the code affected, but you have to find the error.
+    -Mac/Linux command seems to be more detailed and finite in the discovery process. You do have to use "-u" in addition to the "diff" command in order to get more detail.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    Having version control helps you quickly identify changes that may have affected the program or document negatively. Also can help you improve on your current version by referencing an older version. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: Logical save points for your files in Git vs Google Docs. Easier to manage your time when writing code. Better for sharing with others across multiple platforms. Easy to use than Google Docs for coding. Use it offline. 
+    Cons: Does not auto-save file like Google Docs. Command line driven instead of graphically driven.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think that Git save across multiple files in one commit to keep the continuity of each file relevant to the code. Even if some of the files did not change, their relevance to the file that did change will affect the overall performance of that file when it is executed.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The git log shows you when and what files were changed. The git diff shows you the details that were changed between each file specifically.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Version control helps with debugging your code. With each version you can more quickly isolate the potential issue. The color coding helps finding the changes more quickly. Love it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here-Well I see that their is more than one way to identify a problem within code.
