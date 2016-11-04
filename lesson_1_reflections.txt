@@ -6,13 +6,13 @@ was introduced?
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-    Having version control helps you quickly identify changes that may have affected the program or document negatively. Also can help you improve on your current version by referencing an older version. 
+    Having version control helps you quickly identify changes that may have affected the program or document negatively. Also can help you improve on your current version by referencing an older version.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    Pros: Logical save points for your files in Git vs Google Docs. Easier to manage your time when writing code. Better for sharing with others across multiple platforms. Easy to use than Google Docs for coding. Use it offline. 
+    Pros: Logical save points for your files in Git vs Google Docs. Easier to manage your time when writing code. Better for sharing with others across multiple platforms. Easy to use than Google Docs for coding. Use it offline.
     Cons: Does not auto-save file like Google Docs. Command line driven instead of graphically driven.
 
 Why do you think some version control systems, like Git, allow saving multiple
@@ -31,4 +31,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here-Well I see that their is more than one way to identify a problem within code.
+    Well I see that their is more than one way to identify a problem within code.
