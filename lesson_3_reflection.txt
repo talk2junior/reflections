@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You would want to make changes in a separate branch when you have multiple people working on the project. That way you can quickly identify bugs or make adjustments to the file that would benenit the end user. Working on the master allows you to deliver faster publishing of the program for the end user.
