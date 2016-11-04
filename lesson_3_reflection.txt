@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Understanding what changes have occurred. This would limit repetition of information between different users and account for any changes that occurred that need to be committed to final file. Having a historical list of changes in real time helps to promote productivity on the project. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
