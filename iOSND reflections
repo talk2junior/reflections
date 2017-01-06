@@ -2,3 +2,36 @@ iOSND Reflections
 This is a file that simply carries some reflection notes from my iOSND course via Udacity.
 
 Many of my notes taken are in my notebook and within the actual xcode playground file.
+
+Here is the syllabus to my iOSND:
+
+Swift For Beginners (5 Lessons, 1 Project):
+
+-Swift For Beginners
+	Variables and Types
+	Strings
+	If Statements
+	Functions
+-Swift Problem Set
+	Swift Problem Set Prep
+	Swift Problem Set - Met Specifications
+
+Swift For Beginners Continued (38 Lessons)
+
+-Working with Apps
+	Working with Apps
+-Pirate Fleet 1
+	Using Objects
+	Variables
+	Writing Structs with Properties
+	Operators and Expressions
+	Pirate Fleet 1
+-Robot Maze 2
+	Boolean Expressions
+	Branching with If Statements
+	Switch Statements
+	Function I
+	Function II
+	Robot Maze: Part 1
+	Robot Maze: Part 2
+	Robot Maze: Part 3
