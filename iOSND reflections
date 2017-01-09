@@ -8,30 +8,59 @@ Here is the syllabus to my iOSND:
 Swift For Beginners (5 Lessons, 1 Project):
 
 -Swift For Beginners
-	Variables and Types
-	Strings
-	If Statements
-	Functions
+	Variables and Types - Completed
+	Strings - Completed
+	If Statements - Completed
+	Functions - Completed
 -Swift Problem Set
-	Swift Problem Set Prep
-	Swift Problem Set - Met Specifications
+	Swift Problem Set Prep - Completed
+	Swift Problem Set - Met Specifications - Completed 1/3/17 (Met Specifications)
 
 Swift For Beginners Continued (38 Lessons)
 
 -Working with Apps
-	Working with Apps
+	Working with Apps - Completed
 -Pirate Fleet 1
-	Using Objects
-	Variables
-	Writing Structs with Properties
-	Operators and Expressions
-	Pirate Fleet 1
+	Using Objects - Completed
+	Variables - Completed
+	Writing Structs with Properties - Completed
+	Operators and Expressions - Completed
+	Pirate Fleet 1 - Completed
 -Robot Maze 2
-	Boolean Expressions
-	Branching with If Statements
-	Switch Statements
-	Function I
-	Function II
+	Boolean Expressions - Completed
+	Branching with If Statements - Completed
+	Switch Statements - Completed
+	Function I - Completed
+	Function II - Completed 
 	Robot Maze: Part 1
 	Robot Maze: Part 2
 	Robot Maze: Part 3
+-Alien Adventure 1
+	Strings
+	Optionals
+	Loops
+	Arrays
+	Alien Adventure 1
+-Alien Adventure 2
+	Advanced Loops
+	Dictionaries
+	Advanced Operators
+	Enums
+	PList and JSON
+	Alien Adventure 2
+-Pirate Fleet 2
+	Advanced Structs
+	Structs and Protocols
+	Pirate Fleet 2
+-Alien Adventure 3
+	Classes
+	Classes and Inheritance
+	Polymorphism in Action
+	Cocoa Design Patterns
+	Alien Adventure 3
+-Alien Adventure 4
+	Errors
+	Closures
+	Maps and Reduce
+	Making Design Choices
+	Alien Adventure 4
